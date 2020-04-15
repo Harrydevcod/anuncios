@@ -1,5 +1,5 @@
 <?php require_once 'config.php';
-?>
+ require    'classes/usuarios.class.php';?>
 
 
 <!DOCTYPE html>
